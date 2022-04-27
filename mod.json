@@ -5,7 +5,7 @@
 	"lossMessage": "Better luck tomorrow...\nThe answer was:",
 	"tooShortMessage": "Not enough numbers",
 	"notWordMessage": "Not in number list",
-	"creditStr": "Numberle DS\nby ItsSiem\nMade possible by Pk11",
+	"creditStr": "Numberle DS\nby ItsSiem, Game by Pk11",
 	"nthMustBeX": "%d%s number must be %s",
 	"guessMustContainX": "Guess must contain %s",
 	"emoji": {
