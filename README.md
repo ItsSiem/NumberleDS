@@ -25,7 +25,7 @@ See [the official documentation](https://github.com/Epicpkmn11/WordleDS/wiki/Mod
 
 ## Features
 This mod has breath taking features like, *not being broken*.
-* 99999 possible anwsers
+* 99999 possible solutions
 * The same daily solution as [Numberle](https://dduarte.github.io/numberle/) by dduarte
 * Numpad inspired keyboard
 * Cool background I guess
